@@ -3,7 +3,11 @@
 - 👋 My name is David Long
 - 🍊 I'm currently a senior at the University of Tennessee, Knoxville
 - 🎓 I'm currently enrolled in UTK's 5-Year BS/MS Computer Science program
-- 🔭 I'm currently working on wrapping up final projects for my courses
+- 🔭 I'm currently working on wrapping up final projects for my courses, including:
+  - 🤖 **RoboVent**: A mental-health chatbot
+  - 🏜 **"Lisan al-GPT"**: A *Dune*-specialized chatbot with RAG
+  - 🎹 **LLMaestro**: An evaluation of how notation impacts chord progression generation
+  - 🧬 Comparing the effectiveness of an evolutionary algorithm and particle swarm optimization on 2D rocket control policies
 - 🤓 I'm interested in LLM safety in the mental health domain
 - 💼 I currently work as an undergraduate teaching assistant for first-year engineering physics and as an undergraduate research assistant for the Social Tactile Assistive Robotics & Intelligence (STARI) lab
 - 🎵 Fun fact: I've been producing music on and off for the last decade, and am currently working on an album!
