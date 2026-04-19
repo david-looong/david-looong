@@ -1,4 +1,12 @@
-## Hi there 👋
+## Howdy! 🤠
+
+- 👋 My name is David Long
+- 🍊 I'm currently a senior at the University of Tennessee, Knoxville
+- 🎓 I'm currently enrolled in UTK's 5-Year BS/MS Computer Science program
+- 🔭 I'm currently working on wrapping up final projects for my courses
+- 🤓 I'm interested in LLM safety in the mental health domain
+- 💼 I currently work as an undergraduate teaching assistant for first-year engineering physics and as an undergraduate research assistant for the Social Tactile Assistive Robotics & Intelligence (STARI) lab
+- 🎵 Fun fact: I've been producing music on and off for the last decade, and am currently working on an album!
 
 <!--
 **david-looong/david-looong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
