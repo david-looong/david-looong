@@ -4,7 +4,6 @@
 - 🍊 I'm currently a senior at the University of Tennessee, Knoxville
 - 🎓 I'm currently enrolled in UTK's 5-Year BS/MS Computer Science program
 - 🔭 I'm currently working on wrapping up final projects for my courses, including:
-  - 🤖 **RoboVent**: A mental-health chatbot
   - 🏜 **"Lisan al-GPT"**: A *Dune*-specialized chatbot with RAG
   - 🎹 **LLMaestro**: An evaluation of how notation impacts chord progression generation
   - 🧬 Investigating the effects of genetic algorithm hyperparameters on neural network evolution for 2D rocket contorl policies
