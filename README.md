@@ -3,7 +3,7 @@
 - 👋 My name is David Long
 - 🍊 I'm currently a senior at the University of Tennessee, Knoxville
 - 🎓 I'm currently enrolled in UTK's 5-Year BS/MS Computer Science program
-- 🔭 I'm currently working on wrapping up my last final project: **"Lisan al-GPT"**, a *Dune*-specialized chatbot with RAG
+- 🔭 I'm currently working on wrapping up papers for my final projects
 - 🤓 I'm interested in LLM safety in the mental health domain
 - 💼 I currently work as an undergraduate teaching assistant for first-year engineering physics and was previously an undergraduate research assistant for the Social Tactile Assistive Robotics & Intelligence (STARI) lab
 - 🎵 Fun fact: I've been producing music on and off for the last decade, and am currently working on an album!
