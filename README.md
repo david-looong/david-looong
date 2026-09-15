@@ -3,7 +3,7 @@
 - 👋 My name is David Long
 - 🍊 I'm currently a graduate student at the University of Tennessee, Knoxville
 - 👨🏻‍💻 I'm currently working as a Graduate Teaching Assistant for first-year engineering physics courses
-- 🔭 In my spare time, I'm currently working on obtaining relevant AI certifications
+- 🔭 In my spare time, I've been working on obtaining relevant AI certifications
 - 🤓 I'm interested in LLM safety in the mental health domain
 - 💼 My previous work experiences include:
   - Gas Solutions Technology Intern at Southern Company
